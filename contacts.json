@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "1fe6a0a73e3",
+      "name": "Stevan Purba",
+      "address": "aa",
+      "email": "geedotrar@gmail.com"
+    },
+    {
+      "id": "fe6a0a73e30",
+      "name": "Patar Siahaan",
+      "address": "aa",
+      "email": "database.patarmds@gmail.com"
+    },
+    {
+      "id": "101b8b2bda8",
+      "name": "Fernando Siahaan",
+      "address": "aaaaaaavvvvv",
+      "email": "a"
+    },
+    {
+      "id": "9486be66a42",
+      "name": "ssfaf",
+      "address": "afas",
+      "email": "sfa"
+    }
+  ]
+}
