@@ -117,7 +117,7 @@ const Formlist = () => {
   return (
     <Container>
       <div>
-        <h1 className="mb-3 ">CRUD TESTING 3</h1>
+        <h1 className="mb-3 ">CRUD TESTING 2</h1>
         <Form>
           <Form.Group className="mb-3 " controlId="formBasicEmail">
             <Form.Label>Name</Form.Label>
